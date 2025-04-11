@@ -1,0 +1,47 @@
+== What does the New Testament include?
+
+1. It is the collection of religious texts after the birth of Christ.
+2. It consists of the life and teachings of Jesus Christ, the acts of the apostles, letters (epistles), and prophecy.
+
+[cols="2,1"]
+|===
+| Gospels | Chapters
+
+| Matthew | 28
+| Mark | 16
+| Luke | 24
+| John | 21
+|===
+
+[cols="2,1"]
+|===
+| Acts of the Apostles | Chapters
+
+| Acts | 28
+|===
+
+[cols="2,1"]
+|===
+| Epistles | Chapters
+
+| Romans | 16
+| 1 Corinthians | 16
+| 2 Corinthians | 13
+| Galatians | 6
+| Ephesians | 6
+| Philippians | 4
+| Colossians | 4
+| 1 Thessalonians | 5
+| 2 Thessalonians | 3
+| 1 Timothy | 6
+| 2 Timothy | 4
+| Titus | 3
+| Philemon | 1
+|===
+
+[cols="2,1"]
+|===
+| Revelation | Chapters
+
+| Revelation | 22
+|===

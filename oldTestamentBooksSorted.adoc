@@ -1,0 +1,42 @@
+== Books of the Old Testament by Number of Chapters
+
+[cols="2,1,1",options="header"]
+|===
+| Book | Chapters | Completed
+
+| Obadiah | 1 |
+| Joel | 3 |
+| Nahum | 3 |
+| Habakkuk | 3 |
+| Zephaniah | 3 |
+| Jonah | 4 |
+| Ruth | 4 |
+| Lamentations | 5 |
+| Micah | 7 |
+| Song of Solomon | 8 |
+| Amos | 9 |
+| Esther | 10 |
+| Ezra | 10 |
+| Ecclesiastes | 12 |
+| Daniel | 12 |
+| Nehemiah | 13 |
+| Hosea | 14 |
+| Zechariah | 14 |
+| Judges | 21 |
+| 1 Kings | 22 |
+| Joshua | 24 |
+| 2 Kings | 25 |
+| Leviticus | 27 |
+| 1 Chronicles | 29 |
+| Proverbs | 31 |
+| Deuteronomy | 34 |
+| 2 Chronicles | 36 |
+| Numbers | 36 |
+| Exodus | 40 |
+| Job | 42 |
+| Ezekiel | 48 |
+| Genesis | 50 |
+| Jeremiah | 52 |
+| Isaiah | 66 |
+| Psalms | 150 |
+|===
